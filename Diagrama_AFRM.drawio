@@ -13,7 +13,7 @@
         <mxCell id="aUk8qst00XnRjmr5uSPi-5" edge="1" parent="1" source="aUk8qst00XnRjmr5uSPi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aUk8qst00XnRjmr5uSPi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Recibo Datos de AFRM para comprobar" link="https://viewer.diagrams.net/?tags=%7B%7D&amp;lightbox=1&amp;highlight=0000ff&amp;edit=_blank&amp;layers=1&amp;nav=1&amp;title=Diagrama_AFRE.drawio&amp;dark=auto#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FSamMinsait%2FtestingDiagrams%2Fmain%2FDiagrama_AFRE.drawio" linkTarget="_blank" id="aUk8qst00XnRjmr5uSPi-2">
+        <UserObject label="Mandar datos a la autentificación de AFRE" link="https://viewer.diagrams.net/?tags=%7B%7D&amp;lightbox=1&amp;highlight=0000ff&amp;edit=_blank&amp;layers=1&amp;nav=1&amp;title=Diagrama_AFRE.drawio&amp;dark=auto#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FSamMinsait%2FtestingDiagrams%2Fmain%2FDiagrama_AFRE.drawio" linkTarget="_blank" id="aUk8qst00XnRjmr5uSPi-2">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="60" width="120" x="140" y="175" as="geometry" />
           </mxCell>
